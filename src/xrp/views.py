@@ -1,7 +1,7 @@
 import abc
 import itertools
 
-import collections
+import collections.abc
 
 from xrp.match import match_resource
 
